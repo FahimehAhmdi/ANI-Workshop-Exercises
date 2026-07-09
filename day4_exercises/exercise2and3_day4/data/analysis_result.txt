@@ -1,0 +1,3 @@
+Analysis Finished!
+Input was: Hello, World!
+Used threshold: 0.05
