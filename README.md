@@ -9,7 +9,7 @@ The core focus of this workshop is mastering the computational ecosystem require
 
 ---
 
-## 📂 Repository Architecture & Daily Progression
+##  Repository Architecture & Daily Progression
 
 The repository is structured chronologically, tracking advanced neural data engineering from raw data structures to automated multi-file workflows:
 
@@ -31,7 +31,7 @@ The repository is structured chronologically, tracking advanced neural data engi
 
 ---
 
-## 🛠️ Tech Stack & Neuro-Ecosystem
+##  Tech Stack & Neuro-Ecosystem
 
 Throughout the workshop, I gained intensive practical experience with the following toolkits:
 *   **Language:** Python 3.x
@@ -41,7 +41,7 @@ Throughout the workshop, I gained intensive practical experience with the follow
 
 ---
 
-## 🚀 How to Explore this Repository
+##  How to Explore this Repository
 
 1. **Clone the full repository:**
    ```bash
